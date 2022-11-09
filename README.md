@@ -1,3 +1,5 @@
+# Rigid Body Modeling
+
 ![header image](images/header.png "Rigid Body Modeling")
 
 [Youtube video](https://youtu.be/mO_-lGLCmZ4)
